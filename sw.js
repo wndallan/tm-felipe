@@ -1,4 +1,4 @@
-var cacheName = 'NomeApp-v';
+var cacheName = 'Lipe';
 var filesToCache = [
     './',
     './index.html',
